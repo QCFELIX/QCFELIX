@@ -1,4 +1,4 @@
-# 👋 Hi, I'm FELIX
+# 👋 Hi, I'm Félix
 
 ### 🎮 FiveM Developer | QBCore / Qbox / ESX Specialist | ⚜️ Quebec, Canada
 
