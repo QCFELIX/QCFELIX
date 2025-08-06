@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Felix
 
-### 🎮 FiveM Developer | QBCore / Qbox / ESX Specialist | ⚜️ Quebec, Canada
+### 🎮 FiveM Developer / Store Owner of FrostByte Script | QBCore / Qbox / ESX Specialist | ⚜️ Quebec, Canada
 
 ---
 
