@@ -48,7 +48,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🔥_Most_Commits_In_One_Day-14-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="Max Commits per Day" />
+  <img src="https://img.shields.io/badge/🔥_Most_Commits_In_One_Day-13-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="Max Commits per Day" />
 </div>
 
 ## 🌟 Specialties
