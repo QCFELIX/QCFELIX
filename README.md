@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-🎮 Passionate about FiveM development based in Quebec, I specialize in creating innovative QBCore resources. My goal is to push the boundaries of what's possible in the FiveM universe by combining performance and creativity.
+🎮 Passionate about FiveM development based in Quebec, I specialize in creating innovative QBCore resources and other frameworks. My goal is to push the boundaries of what's possible in the FiveM universe by combining performance and creativity.
 
 💡 An expert in script optimization and full-stack development, I create unique gaming experiences that blend smoothness and immersion. Whether it's improving server performance or designing modern user interfaces, I always strive to deliver high-quality code.
 
