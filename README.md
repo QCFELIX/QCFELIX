@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Felix
-
 ### 🎮 FiveM Expert Developer | QBCore / Qbox / ESX | FrostByte Scripts | ⚜️ Quebec, Canada
-
 ---
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=FiveM+Developer;QBCore+Specialist;Full-Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
@@ -30,6 +27,7 @@
 ### Frameworks & Tools
 ![QBCore](https://img.shields.io/badge/QBCore-000000?style=for-the-badge&logo=fivem&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -38,8 +36,6 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
 
 ## 📊 GitHub Activity
 
